@@ -1,7 +1,7 @@
 {
-    "name": "quick-budget",
-    "short_name": "quick-budget",
-    "description": "Simple budget tracker with offline capabilities.",
+    "name": "Speedy-Budget-PWA",
+    "short_name": "Speedy-Budget-PWA",
+    "description": "A budget tracker with offline capabilities",
     "icons": [
       {
         "src": "./icons/icon-72x72.png",
@@ -40,7 +40,10 @@
       }
     ],
     "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "start_url": "/",
+    "background_color": "#01579b",
+    "start_url": "/index.html",
     "display": "standalone"
   }
+
+
+  

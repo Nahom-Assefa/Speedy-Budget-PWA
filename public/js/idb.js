@@ -66,6 +66,7 @@ function uploadItem() {
           const store = transaction.objectStore("pending");
           // clear all items in your store
           store.clear();
+          alert('posted to database!');
         })
         .catch((err) => {
           // set reference to redirect back here
